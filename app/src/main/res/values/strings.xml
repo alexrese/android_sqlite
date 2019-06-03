@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">CRUD</string>
+    <string name="et_name">Name</string>
+    <string name="et_email">E-mail</string>
+    <string name="et_cpf">CPF</string>
+    <string name="et_telefone">Telefone</string>
+</resources>
